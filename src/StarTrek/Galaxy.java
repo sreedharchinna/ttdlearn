@@ -1,6 +1,6 @@
 package StarTrek;
 
-import Untouchables.WebGadget;
+import gameclient.WebGadget;
 
 /**
  * A simple Proxy/wrapper class for Untouchables.WebGadget,

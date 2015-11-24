@@ -1,6 +1,6 @@
 package StarTrek;
 
-import Untouchables.WebGadget;
+import gameclient.WebGadget;
 
 public class Torpedoes extends Weapon{
 

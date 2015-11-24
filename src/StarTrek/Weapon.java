@@ -1,6 +1,6 @@
 package StarTrek;
 
-import Untouchables.WebGadget;
+import gameclient.WebGadget;
 
 public abstract class Weapon {
 	public abstract int fireWeapon(WebGadget wg,int energy);
