@@ -9,7 +9,7 @@ import StarTrek.Torpedoes;
 /**
  * 
  * Note: SampleClient is UNTOUCHABLE! It represents one of hundreds of Game
- * clients, and should not have to change.
+ * clients.
  * 
  */
 public class SampleClient {
